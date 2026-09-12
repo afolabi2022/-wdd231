@@ -64,7 +64,7 @@ const courses = [
 
 function displayCourses(courseList) {
     const container = document.querySelector("#courseContainer");
-    container.innerHTML = "";   // clear previous cards
+    container.innerHTML = "";   
 
     courseList.forEach(course => {
         const card = document.createElement("div");
