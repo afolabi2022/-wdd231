@@ -1,0 +1,65 @@
+[
+  {
+    "name": "AfemTech",
+    "address": "12 Broad Street, Monrovia",
+    "phone": "+231881518106",
+    "website": "https://afemtech.lr",
+    "image": "business1.webp",
+    "membershipLevel": 3,
+    "tagline": "Digital Solutions"
+  },
+  {
+    "name": "Fashion Factory",
+    "address": "45 Carey Street, Monrovia Liberia",
+    "phone": "+231772387563",
+    "website": "https://fashionfactory.lr",
+    "image": "business2.webp",
+    "membershipLevel": 2,
+    "tagline": "Fashion House"
+  },
+  {
+    "name": "Green Leaf Landscaping",
+    "address": "78 Tubman Boulevard, Monrovia",
+    "phone": "+231773333669",
+    "website": "https://greenleaf.lr",
+    "image": "business3.webp",
+    "membershipLevel": 1,
+    "tagline": "Beautiful outdoor spaces"
+  },
+  {
+    "name": "Tech Solutions Liberia",
+    "address": "90 UN Drive, Ganta, Liberia",
+    "phone": "+231774455334",
+    "website": "https://techsolutions.lr",
+    "image": "business4.webp",
+    "membershipLevel": 3,
+    "tagline": "IT support for businesses"
+  },
+  {
+    "name": "Stanley's Bakery",
+    "address": "15 Randall Street, Grand Gedeh",
+    "phone": "+231775552311",
+    "website": "https://stanleysbakery.lr",
+    "image": "business5.webp",
+    "membershipLevel": 2,
+    "tagline": "Homemade breads and pastries"
+  },
+  {
+    "name": "Karnel Fresh",
+    "address": "33 Somalia Drive, Monrovia",
+    "phone": "+231881556672",
+    "website": "https://karnelfresh.lr",
+    "image": "business6.webp",
+    "membershipLevel": 1,
+    "tagline": "Look good"
+  },
+  {
+    "name": "Rainbow Real Estate",
+    "address": "100 Sinkor, Monrovia",
+    "phone": "+231777564432",
+    "website": "https://rainbowrealestate.lr",
+    "image": "business7.webp",
+    "membershipLevel": 3,
+    "tagline": "Find your perfect home"
+  }
+]
